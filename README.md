@@ -3,8 +3,8 @@ This is a simple guide that shows you how to use a custom ringtone such as the S
 
 About 3.5 years ago, I was analyzing the security of Ultra-Wideband (UWB) integration in Samsung phones for my [Master's thesis](https://tuprints.ulb.tu-darmstadt.de/24378/1/Thesis_Martin_Heyden_Final.pdf). As part of that work, I explored the SmartTag+ in detail. During my analysis, I discovered that it is possible to transfer custom ringtones to the device, and I even uploaded a [proof-of-concept video](https://www.youtube.com/watch?v=W5EczljLdPs) demonstrating it. As it turns out, you can still upload a custom ringtone to the SmartTag, even to the latest one which is the SmartTag2. Any SmartTag features a [Piezoelectric speaker](https://en.wikipedia.org/wiki/Piezoelectric_speaker) and you can transfer the notes it should be playing to the device. I will provide you the Super Mario Theme and Nokia ringtone notes in this repository. You will find more ringtone data in the internet. 
 
-See it in action:
-To be done.
+[Hear the custom SmartTag2 ringtone in action after following the steps outlined in this guide.](https://youtu.be/Qq_I29kgmC8)
+
 
 ## Disclaimer
 I am not responsible for any damage to your phone, SmartTag, SmartThings app, or any other device or software as a result of following this guide.
